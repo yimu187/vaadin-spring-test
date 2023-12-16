@@ -23,7 +23,7 @@
 	<repositories>
 		<repository>
 			<id>vaadin-addons</id>
-			<url>http://maven.vaadin.com/vaadin-addons</url>
+			<url>https://maven.vaadin.com/vaadin-addons</url>
 		</repository>
 		<repository>
 			<id>vaadin-snapshots</id>
@@ -37,7 +37,7 @@
 		</repository>
 		<repository>
 			<id>JBoss repository</id>
-			<url>http://repository.jboss.com/maven2/</url>
+			<url>https://repository.jboss.com/maven2/</url>
 		</repository>
 	</repositories>
 
